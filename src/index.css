@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-site-bg text-text-primary;
+  }
+}
+
+@layer components {
+  main > section {
+    @apply py-12 md:py-20 px-4 md:px-8;
+    /* min-height: 60vh; */
+    border-bottom: 1px solid #3a3a3a;
+  }
+
+  main > section:last-of-type {
+    border-bottom: none;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold mb-8 md:mb-12 text-center text-text-primary;
+  }
+
+  .card {
+    @apply bg-card-bg p-6 rounded-material shadow-lg border border-gray-700;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+
+  .card:hover {
+    @apply transform -translate-y-1 shadow-xl shadow-[0_10px_15px_-3px_rgba(51,255,87,0.1),0_4px_6px_-4px_rgba(51,255,87,0.1)];
+  }
+
+  .link-style {
+    @apply text-brand-green hover:text-brand-green-darker transition-colors duration-300;
+  }
+
+  /* Animation for sections appearing on scroll */
+  .fade-in-section {
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+  }
+
+  .fade-in-section.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "name": "MARCELLO PIMENTEL ZANANDREA",
+  "title": "Front-End Developer",
+  "location": "Vitória - Espírito Santo - Brazil",
+  "linkedin": "https://www.linkedin.com/in/marcellopz",
+  "github": "https://github.com/marcellopz",
+  "email": "marcellopz8@gmail.com",
+  "phone": "+55 (27) 9.9737-9738",
+  "summary": "Mid-Level React Developer with 4 years of experience specializing in React and TypeScript. Proven ability delivering scalable web applications and contributing to large-scale design system migrations within international, remote teams (US client). Seeking a challenging remote Software Engineer role focused on building innovative user experiences and leveraging strong analytical skills derived from an Electrical Engineering background.",
+  "skills": {
+    "programming_languages": [
+      "TypeScript",
+      "JavaScript (ES6+)",
+      "HTML5",
+      "CSS3",
+      "Python",
+      "PHP (Basic)"
+    ],
+    "frameworks_libraries": [
+      "React.js",
+      "Redux",
+      "Zustand",
+      "React Query",
+      "React Testing Library (RTL)",
+      "Jest",
+      "Node.js (Basic)",
+      "Material UI",
+      "Tailwind CSS",
+      "Styled Components"
+    ],
+    "tools_platforms": [
+      "Git",
+      "GitLab",
+      "AWS (Certified Solutions Architect - Associate)",
+      "Firebase (Realtime Database, Auth)",
+      "Vercel",
+      "Jira",
+      "Figma"
+    ],
+    "other_skills_category_title": "Other Skills",
+    "other": [
+      "REST APIs",
+      "Responsive Web Design",
+      "Design Systems",
+      "Accessibility (a11y)"
+    ],
+    "languages_category_title": "Languages",
+    "languages": [
+      "Portuguese (Native)",
+      "English (Professional Working Proficiency)"
+    ],
+    "relevant_tech_icons": [
+      "React.js",
+      "TypeScript",
+      "JavaScript (ES6+)",
+      "Node.js (Basic)",
+      "Python",
+      "HTML5",
+      "CSS3",
+      "Material UI",
+      "Tailwind CSS",
+      "Git",
+      "AWS (Certified Solutions Architect - Associate)",
+      "Firebase (Realtime Database, Auth)"
+    ]
+  },
+  "experience": [
+    {
+      "company": "FullStack Labs (Client: FloQast)",
+      "roles": [
+        {
+          "title": "Software Engineer (Mid Level)",
+          "period": "MAY 2025 - Present"
+        },
+        {
+          "title": "Junior Software Engineer",
+          "period": "DEC 2024 - MAY 2025",
+          "duration": "6 months"
+        }
+      ],
+      "description": "Contributed to the migration of front-end components to a modernized design system across dozens of repositories for FloQast, a leading US-based accounting SaaS provider. Engineered and implemented complex, accessible, and themeable UI components using React and Styled Components, enhancing developer experience and visual consistency. Actively participated in code reviews, technical discussions, and agile ceremonies in a fully English-speaking environment, contributing to high-quality code standards."
+    },
+    {
+      "company": "senhasegura",
+      "roles": [
+        {
+          "title": "React Developer (Mid-Level)",
+          "period": "FEB 2024 - DEC 2024",
+          "duration": "11 months"
+        },
+        {
+          "title": "Junior React Developer",
+          "period": "FEB 2023 - FEB 2024",
+          "duration": "1 year"
+        }
+      ],
+      "description": "Led the front-end development of a new internal platform for managing cloud identity tenants and licenses, utilizing React and TypeScript. Designed and implemented intuitive user interfaces with complex CRUD operations and hierarchical data visualization for distributors and resellers. Executed the complete migration of a major application codebase from JavaScript to TypeScript, refactoring approximately 150 files to improve type safety and significantly enhance developer productivity. Developed and maintained user-friendly interfaces for cloud entity monitoring systems, collaborating closely with backend and product teams."
+    },
+    {
+      "company": "senhasegura",
+      "roles": [
+        {
+          "title": "React Intern",
+          "period": "FEB 2022 - FEB 2023",
+          "duration": "1 year"
+        }
+      ],
+      "description": "Contributed to multiple projects as a Front-End React developer, resulting in improved user interface performance and enhanced user satisfaction through optimized design practices. Collaborated with team members to create user-friendly components and improve system performance. Enhanced technical skills in React, JavaScript, and front-end best practices within a professional environment."
+    },
+    {
+      "company": "senhasegura",
+      "roles": [
+        {
+          "title": "PHP Back-End Intern",
+          "period": "JUN 2021 - FEB 2022",
+          "duration": "9 months"
+        }
+      ],
+      "description": "Gained foundational backend experience contributing to projects using PHP and the Symfony framework. Developed server-side logic for CRUD operations and created front-end templates using Twig. Acquired practical skills in backend development principles and solidified preference for front-end specialization."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade Federal do Espírito Santo (UFES)",
+      "degree": "Bachelor of Engineering, Electrical and Electronics Engineering",
+      "period": "2016 – 2022"
+    }
+  ],
+  "personal_projects": [
+    {
+      "name": "RPG Campaign Manager",
+      "url": "rpgmanager.dev",
+      "github_url": "github.com/marcellopz/rpg-manager",
+      "description": "Developed a comprehensive web application for managing tabletop RPG campaigns using React, TypeScript, and Firebase, hosted on Vercel. Implemented features including Markdown text editing, inventory management, and character sheet creation within a responsive, OneNote-inspired layout. Engineered distinct public (shared) and private (player-specific) sections within campaigns to manage information access effectively.",
+      "view_project_button": "View Project",
+      "source_code_button": "Source Code"
+    },
+    {
+      "name": "League of Legends Match Customization & Analytics",
+      "url": "x5dosnerds.vercel.app",
+      "github_url": "github.com/marcellopz/Leagueoflegends-x5",
+      "description": "Created a personalized platform for balancing custom League of Legends matches and tracking player/team statistics using React, Firebase Realtime Database, Tailwind CSS, and Material UI. Automated previously manual processes for team balancing and calculation of win rates and performance metrics. Implemented user authentication and permission handling to manage access to personalized player data.",
+      "view_project_button": "View Project",
+      "source_code_button": "Source Code"
+    }
+  ],
+  "hero_section": {
+    "greeting": "Welcome to my portfolio. I am a developer focused on creating impactful and scalable user experiences.",
+    "learn_more_button": "Learn More"
+  },
+  "about_section": {
+    "title": "About Me"
+  },
+  "experience_section": {
+    "title": "Professional Experience"
+  },
+  "projects_section": {
+    "title": "Personal Projects"
+  },
+  "technologies_section": {
+    "title": "Technologies",
+    "other_skills_title": "Other Skills"
+  },
+  "contact_section": {
+    "title": "Get in Touch",
+    "intro_text": "I'm always open to new opportunities and collaborations. Feel free to reach out!",
+    "email_label": "Email",
+    "phone_label": "Phone",
+    "linkedin_label": "LinkedIn",
+    "github_label": "GitHub",
+    "location_label": "Location"
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "technologies": "Technologies",
+    "contact": "Contact"
+  },
+  "footer": {
+    "copyright_text": "Marcello Pimentel Zanandrea. All rights reserved.",
+    "developed_with_text": "Developed with React & Tailwind CSS."
+  }
+}
