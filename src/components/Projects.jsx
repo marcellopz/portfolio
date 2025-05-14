@@ -11,7 +11,7 @@ const Projects = () => {
           {resumeData.personal_projects.map((project, index) => (
             <div
               key={index}
-              className="card animate-fade-in bg-card-bg border-gray-700"
+              className="card animate-fade-in bg-card-bg border-gray-700 flex flex-col"
               style={{ animationDelay: `${index * 0.2 + 0.2}s` }}
             >
               <h3 className="text-xl font-semibold text-text-primary mb-2">

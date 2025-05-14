@@ -6,7 +6,7 @@
   "github": "https://github.com/marcellopz",
   "email": "marcellopz8@gmail.com",
   "phone": "+55 (27) 9.9737-9738",
-  "summary": "Mid-Level React Developer with 4 years of experience specializing in React and TypeScript. Proven ability delivering scalable web applications and contributing to large-scale design system migrations within international, remote teams (US client). Seeking a challenging remote Software Engineer role focused on building innovative user experiences and leveraging strong analytical skills derived from an Electrical Engineering background.",
+  "summary": "I'm a Mid-Level React Developer with 4 years of experience in React and TypeScript, working with remote teams on scalable applications and large design system transitions. I'm driven by creating real-world solutions that serve a meaningful purpose, focusing on applications that people genuinely use and find valuable. My strong analytical mindset, shaped by a background in Electrical Engineering, supports my goal of contributing to remote teams that are building thoughtful and impactful user experiences.",
   "skills": {
     "programming_languages": [
       "TypeScript",
@@ -123,7 +123,7 @@
     {
       "institution": "Universidade Federal do Espírito Santo (UFES)",
       "degree": "Bachelor of Engineering, Electrical and Electronics Engineering",
-      "period": "2016 – 2022"
+      "period": "2016 - 2022"
     }
   ],
   "personal_projects": [
@@ -142,10 +142,26 @@
       "description": "Created a personalized platform for balancing custom League of Legends matches and tracking player/team statistics using React, Firebase Realtime Database, Tailwind CSS, and Material UI. Automated previously manual processes for team balancing and calculation of win rates and performance metrics. Implemented user authentication and permission handling to manage access to personalized player data.",
       "view_project_button": "View Project",
       "source_code_button": "Source Code"
+    },
+    {
+      "name": "Real-Time Tabletop Game Platform",
+      "url": "bozo.mateusbento.com/home",
+      "github_url": "github.com/bozoteam/nashor",
+      "description": "Developing a responsive and accessible platform for real-time tabletop games like Tic Tac Toe, Poker, and Dominoes using React, Tailwind CSS, Material UI, TanStack Query, and Zustand for state management. The Go backend provides real-time communication via WebSockets and REST APIs. Includes live chat, multiplayer support, and end-to-end testing with Playwright. Designed with mobile-first responsiveness and accessibility best practices to ensure an inclusive experience across devices.",
+      "view_project_button": "View Project",
+      "source_code_button": "Source Code"
+    },
+    {
+      "name": "Personal Portfolio Website",
+      "url": "marcellopz.vercel.app/",
+      "github_url": "github.com/marcellopz/portfolio",
+      "description": "Designed and developed a clean, responsive personal portfolio using React and Tailwind CSS to showcase my work experience, personal and professional projects, and the technologies I specialize in. Focused on simplicity, performance, and ease of navigation to provide a smooth user experience. Highlights include a dynamic project gallery, tech stack overview, and clear presentation of my development background.",
+      "view_project_button": "Visit Site",
+      "source_code_button": "Source Code"
     }
   ],
   "hero_section": {
-    "greeting": "Welcome to my portfolio. I am a developer focused on creating impactful and scalable user experiences.",
+    "greeting": "I'm a React Developer focused on creating meaningful user experiences and building applications with real-world value.",
     "learn_more_button": "Learn More"
   },
   "about_section": {
