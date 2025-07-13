@@ -90,22 +90,11 @@
         },
         {
           "title": "Junior React Developer",
-          "period": "FEB 2023 - FEB 2024",
-          "duration": "1 year"
+          "period": "FEB 2022 - FEB 2024",
+          "duration": "2 years"
         }
       ],
       "description": "Led the front-end development of a new internal platform for managing cloud identity tenants and licenses, utilizing React and TypeScript. Designed and implemented intuitive user interfaces with complex CRUD operations and hierarchical data visualization for distributors and resellers. Executed the complete migration of a major application codebase from JavaScript to TypeScript, refactoring approximately 150 files to improve type safety and significantly enhance developer productivity. Developed and maintained user-friendly interfaces for cloud entity monitoring systems, collaborating closely with backend and product teams."
-    },
-    {
-      "company": "senhasegura",
-      "roles": [
-        {
-          "title": "React Intern",
-          "period": "FEB 2022 - FEB 2023",
-          "duration": "1 year"
-        }
-      ],
-      "description": "Contributed to multiple projects as a Front-End React developer, resulting in improved user interface performance and enhanced user satisfaction through optimized design practices. Collaborated with team members to create user-friendly components and improve system performance. Enhanced technical skills in React, JavaScript, and front-end best practices within a professional environment."
     },
     {
       "company": "senhasegura",
